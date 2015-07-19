@@ -7,7 +7,7 @@ use yii\filters\AccessControl;
 use yii\web\Controller;
 use yii\filters\VerbFilter;
 use app\models\User;
-use app\models\password;
+use app\models\Password;
 use app\models\Mailer;
 use app\models\SignupForm;
 use app\models\LoginForm;
