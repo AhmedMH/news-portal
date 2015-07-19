@@ -1,0 +1,2909 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"art",
+				"article"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"us",
+				"User"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"ba",
+				"background-repeat"
+			],
+			[
+				"a",
+				"articles"
+			],
+			[
+				"ar",
+				"article"
+			],
+			[
+				"ima",
+				"imageFile"
+			],
+			[
+				"va",
+				"var_dump"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"cre",
+				"createPassword"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"con",
+				"confirm"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"html",
+				"html_entity_decode"
+			],
+			[
+				"he",
+				"hello"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"do",
+				"double"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"sq",
+				"square"
+			],
+			[
+				"sha",
+				"shape"
+			],
+			[
+				"def",
+				"define"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"De",
+				"DEBUG"
+			],
+			[
+				"s",
+				"size"
+			],
+			[
+				"si",
+				"sizeof"
+			],
+			[
+				"te",
+				"test"
+			],
+			[
+				"de",
+				"depthCount"
+			],
+			[
+				"stru",
+				"structure"
+			],
+			[
+				"pri",
+				"printf	printf …"
+			],
+			[
+				"e",
+				"emp1"
+			],
+			[
+				"ptr",
+				"ptr1"
+			],
+			[
+				"pnt",
+				"pntr"
+			],
+			[
+				"pntr",
+				"pntrpntr"
+			],
+			[
+				"ans",
+				"answerornot"
+			],
+			[
+				"al",
+				"alert"
+			],
+			[
+				"showa",
+				"showanswers"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"qu",
+				"question"
+			],
+			[
+				"pr",
+				"previewanswers"
+			],
+			[
+				"downl",
+				"download"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"exa",
+				"exam"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"col",
+				"column"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"lis",
+				"lists"
+			],
+			[
+				"jqx",
+				"jqxExpander"
+			],
+			[
+				"q",
+				"questions"
+			],
+			[
+				"bra",
+				"branch_id"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"arr",
+				"array	$… = array (…)"
+			],
+			[
+				"na",
+				"navigate"
+			],
+			[
+				"ques",
+				"question"
+			],
+			[
+				"sub",
+				"subcategory"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"to",
+				"toArray"
+			],
+			[
+				"ca",
+				"category"
+			],
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"subc",
+				"subcategories"
+			],
+			[
+				"cate",
+				"categories"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"crea",
+				"created_at"
+			],
+			[
+				"ex",
+				"exams"
+			],
+			[
+				"data",
+				"data_types"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"dis",
+				"disabled"
+			],
+			[
+				"remo",
+				"removeClass"
+			],
+			[
+				"i",
+				"important"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"gr",
+				"group"
+			],
+			[
+				"use",
+				"user"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"cl",
+				"clipboard"
+			],
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"pa",
+				"pasteAndGo"
+			],
+			[
+				"br",
+				"branch_id"
+			],
+			[
+				"Ca",
+				"category"
+			],
+			[
+				"btn",
+				"btn-social"
+			],
+			[
+				"fla",
+				"flash_message"
+			],
+			[
+				"Re",
+				"Request"
+			],
+			[
+				"o",
+				"oauth"
+			],
+			[
+				"ty",
+				"typename"
+			],
+			[
+				"c",
+				"class	Attr"
+			],
+			[
+				"mra",
+				"margin-bottom"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"ech",
+				"echo"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "views/article/view.php",
+			"settings":
+			{
+				"buffer_size": 1854,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/auth/login.php",
+			"settings":
+			{
+				"buffer_size": 865,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/auth/password.php",
+			"settings":
+			{
+				"buffer_size": 624,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/auth/signup.php",
+			"settings":
+			{
+				"buffer_size": 611,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "web/index.php",
+			"settings":
+			{
+				"buffer_size": 370,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/article/list.php",
+			"settings":
+			{
+				"buffer_size": 1470,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "views/layouts/flash.php",
+			"settings":
+			{
+				"buffer_size": 259,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "web/css/site.css",
+			"settings":
+			{
+				"buffer_size": 4108,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/xampp/apache/conf/extra/httpd-vhosts.conf",
+			"settings":
+			{
+				"buffer_size": 4115,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "controllers/ArticleController.php",
+			"settings":
+			{
+				"buffer_size": 4637,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "controllers/FeedController.php",
+			"settings":
+			{
+				"buffer_size": 1861,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "views/article/rss.xml",
+			"settings":
+			{
+				"buffer_size": 547,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "models/Article.php",
+			"settings":
+			{
+				"buffer_size": 836,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "models/Uploader.php",
+			"settings":
+			{
+				"buffer_size": 751,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "controllers/ErrorController.php",
+			"settings":
+			{
+				"buffer_size": 441,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "vendor/yiisoft/yii2-debug/Module.php",
+			"settings":
+			{
+				"buffer_size": 16174,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "controllers/AuthController.php",
+			"settings":
+			{
+				"buffer_size": 3417,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "controllers/PdfController.php",
+			"settings":
+			{
+				"buffer_size": 844,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "views/article/create.php",
+			"settings":
+			{
+				"buffer_size": 228,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "models/Password.php",
+			"settings":
+			{
+				"buffer_size": 703,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "config/web.php",
+			"settings":
+			{
+				"buffer_size": 2566,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/layouts/main.php",
+			"settings":
+			{
+				"buffer_size": 2806,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/article/index.php",
+			"settings":
+			{
+				"buffer_size": 187,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/article/_form.php",
+			"settings":
+			{
+				"buffer_size": 643,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "models/User.php",
+			"settings":
+			{
+				"buffer_size": 3392,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "ad46f0e0f826caa0ba6fa2d11602c12560d29a23",
+			"settings":
+			{
+				"buffer_size": 40,
+				"line_ending": "Windows",
+				"name": "ad46f0e0f826caa0ba6fa2d11602c12560d29a23"
+			}
+		},
+		{
+			"file": "vendor/yiisoft/yii2/helpers/ArrayHelper.php",
+			"settings":
+			{
+				"buffer_size": 386,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "models/Mailer.php",
+			"settings":
+			{
+				"buffer_size": 641,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "runtime/logs/app.log",
+			"settings":
+			{
+				"buffer_size": 6657532,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "composer.json",
+			"settings":
+			{
+				"buffer_size": 1714,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "-Decompress the zip file to a specific folder \n-Now, form your terminal \"cd\" to the Source folder, once there run \"composer install\"\n-Add a virtual host to apache ",
+			"file": "/C/xampp/htdocs/Ahmed Hamed - Software Engineer - PHP/Readme.txt",
+			"file_size": 0,
+			"file_write_time": 130817857027284373,
+			"settings":
+			{
+				"buffer_size": 163,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "views/article/myarticles.php",
+			"settings":
+			{
+				"buffer_size": 324,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "models/SignupForm.php",
+			"settings":
+			{
+				"buffer_size": 752,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<?php\n\nuse yii\\helpers\\Html;\nuse yii\\widgets\\ActiveForm;\n\n/* @var $this yii\\web\\View */\n/* @var $model app\\models\\SignupForm */\n/* @var $form ActiveForm */\n$this->title = 'Welcome! Create your account';\n?>\n<div class=\"col-md-5 center-block\" style=\"float:none;\">\n\n<h2 class=\"form-title\" ><?= Html::encode($this->title) ?></h2>\n        <hr class=\"line\">\n\n    <?php $form = ActiveForm::begin(); ?>\n\n        <?= $form->field($model, 'name') ?>\n        <?= $form->field($model, 'email') ?>\n    \n        <div class=\"form-group\">\n            <?= Html::submitButton('<i class=\"fa fa-fw fa-user\"></i> Register', ['class' => 'btn btn-primary btn-lg btn-block']) ?>\n        </div>\n    <?php ActiveForm::end(); ?>\n\n</div><!-- signup -->\n",
+			"file": "views/site/signup.php",
+			"file_size": 725,
+			"file_write_time": 130817258336360441,
+			"settings":
+			{
+				"buffer_size": 725,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<?php\n\nnamespace app\\models;\n\nclass User extends \\yii\\base\\Object implements \\yii\\web\\IdentityInterface\n{\n    public $id;\n    public $username;\n    public $password;\n    public $authKey;\n    public $accessToken;\n\n    private static $users = [\n        '100' => [\n            'id' => '100',\n            'username' => 'admin',\n            'password' => 'admin',\n            'authKey' => 'test100key',\n            'accessToken' => '100-token',\n        ],\n        '101' => [\n            'id' => '101',\n            'username' => 'demo',\n            'password' => 'demo',\n            'authKey' => 'test101key',\n            'accessToken' => '101-token',\n        ],\n    ];\n\n    /**\n     * @inheritdoc\n     */\n    public static function findIdentity($id)\n    {\n        return isset(self::$users[$id]) ? new static(self::$users[$id]) : null;\n    }\n\n    /**\n     * @inheritdoc\n     */\n    public static function findIdentityByAccessToken($token, $type = null)\n    {\n        foreach (self::$users as $user) {\n            if ($user['accessToken'] === $token) {\n                return new static($user);\n            }\n        }\n\n        return null;\n    }\n\n    /**\n     * Finds user by username\n     *\n     * @param  string      $username\n     * @return static|null\n     */\n    public static function findByUsername($username)\n    {\n        foreach (self::$users as $user) {\n            if (strcasecmp($user['username'], $username) === 0) {\n                return new static($user);\n            }\n        }\n\n        return null;\n    }\n\n    /**\n     * @inheritdoc\n     */\n    public function getId()\n    {\n        return $this->id;\n    }\n\n    /**\n     * @inheritdoc\n     */\n    public function getAuthKey()\n    {\n        return $this->authKey;\n    }\n\n    /**\n     * @inheritdoc\n     */\n    public function validateAuthKey($authKey)\n    {\n        return $this->authKey === $authKey;\n    }\n\n    /**\n     * Validates password\n     *\n     * @param  string  $password password to validate\n     * @return boolean if password provided is valid for current user\n     */\n    public function validatePassword($password)\n    {\n        return $this->password === $password;\n    }\n}\n",
+			"settings":
+			{
+				"buffer_size": 2154,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "\n\n<div class=\"site-login\">\n    <h1><?= Html::encode($this->title) ?></h1>\n\n    <p>Please fill out the following fields to login:</p>\n\n    <?php $form = ActiveForm::begin([\n        'id' => 'login-form',\n        'options' => ['class' => 'form-horizontal'],\n        'fieldConfig' => [\n            'template' => \"{label}\\n<div class=\\\"col-lg-3\\\">{input}</div>\\n<div class=\\\"col-lg-8\\\">{error}</div>\",\n            'labelOptions' => ['class' => 'col-lg-1 control-label'],\n        ],\n    ]); ?>\n\n    <?= $form->field($model, 'email') ?>\n\n    <?= $form->field($model, 'password')->passwordInput() ?>\n\n    <?= $form->field($model, 'rememberMe', [\n        'template' => \"<div class=\\\"col-lg-offset-1 col-lg-3\\\">{input}</div>\\n<div class=\\\"col-lg-8\\\">{error}</div>\",\n    ])->checkbox() ?>\n\n    <div class=\"form-group\">\n        <div class=\"col-lg-offset-1 col-lg-11\">\n            <?= Html::submitButton('Login', ['class' => 'btn btn-primary', 'name' => 'login-button']) ?>\n        </div>\n    </div>\n\n    <?php ActiveForm::end(); ?>\n</div>\n ",
+			"settings":
+			{
+				"buffer_size": 1028,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "        \"robregonm/yii2-auth\": \"*\",",
+			"settings":
+			{
+				"buffer_size": 35,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 219.0,
+		"last_filter": "make ",
+		"selected_items":
+		[
+			[
+				"make ",
+				"Build With: Make"
+			],
+			[
+				"make",
+				"Build With: Make"
+			],
+			[
+				"newfil",
+				"File: New View into File"
+			],
+			[
+				"sftp",
+				"SFTP: Browse Server…"
+			],
+			[
+				"d",
+				"SFTP: Delete Server…"
+			],
+			[
+				":new file",
+				"File: New View into File"
+			],
+			[
+				"",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"html",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"server",
+				"SFTP: Edit Server…"
+			],
+			[
+				"packages",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 188.0,
+		"history":
+		[
+			"php artisan"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/yii/basic",
+		"/C/xampp/htdocs/yii/basic/config",
+		"/C/xampp/htdocs/yii/basic/controllers",
+		"/C/xampp/htdocs/yii/basic/mail",
+		"/C/xampp/htdocs/yii/basic/mail/layouts",
+		"/C/xampp/htdocs/yii/basic/models",
+		"/C/xampp/htdocs/yii/basic/runtime",
+		"/C/xampp/htdocs/yii/basic/runtime/logs",
+		"/C/xampp/htdocs/yii/basic/runtime/mail",
+		"/C/xampp/htdocs/yii/basic/views",
+		"/C/xampp/htdocs/yii/basic/views/article",
+		"/C/xampp/htdocs/yii/basic/views/auth",
+		"/C/xampp/htdocs/yii/basic/views/error",
+		"/C/xampp/htdocs/yii/basic/views/layouts",
+		"/C/xampp/htdocs/yii/basic/web",
+		"/C/xampp/htdocs/yii/basic/web/app/views",
+		"/C/xampp/htdocs/yii/basic/web/app/views/article",
+		"/C/xampp/htdocs/yii/basic/web/uploads"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/rss.xml",
+		"/C/xampp/htdocs/yii/basic/views/article/update.php",
+		"/C/xampp/htdocs/yii/basic/views/site/password.php",
+		"/C/xampp/htdocs/yii/basic/views/site/login.php",
+		"/C/xampp/htdocs/yii/basic/views/site/index.php",
+		"/C/xampp/htdocs/yii/basic/views/site/flash.php",
+		"/C/xampp/htdocs/yii/basic/web/bootstrap-filestyle.min.js",
+		"/C/xampp/htdocs/yii/basic/web/uploads/image.jpg",
+		"/C/xampp/htdocs/yii/basic/runtime/mail/20150718-012808-4958-0714.eml",
+		"/C/xampp/htdocs/yii/basic/runtime/mail/20150718-012717-4182-4817.eml",
+		"/C/xampp/htdocs/news_portal/public/index.php",
+		"/C/xampp/htdocs/zend/ZendSkeletonApplication/module/Album/view/album/album/index.phtml",
+		"/C/xampp/htdocs/zend/ZendSkeletonApplication/module/Album/module.php",
+		"/C/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/Ahmed/Documents/softlock/TLV/ASN_TLV/test_files/ssl.crt",
+		"/C/Users/Ahmed/AppData/Local/Temp/fz3temp-1/000-default.conf",
+		"/C/Users/Ahmed/Documents/softlock/TLV/ASN_TLV/headers/config.h",
+		"/C/xampp/htdocs/assaf/.env",
+		"/C/Users/Ahmed/AppData/Local/Temp/fz3temp-2/php.ini",
+		"/C/Users/Ahmed/AppData/Local/Temp/fz3temp-2/squirrelmail.conf",
+		"/C/Users/Ahmed/Documents/valeo/oop.php",
+		"/C/xampp/htdocs/Escape-pack/.htaccess",
+		"/C/xampp/htdocs/ssl/ssl.crt",
+		"/C/Users/Ahmed/Documents/valeo/valeo exam/base64.c",
+		"/C/xampp/htdocs/embeddedcasts/resources/views/welcome.blade.php",
+		"/C/Users/Ahmed/Documents/valeo/check_prime.c",
+		"/C/Users/Ahmed/Documents/valeo/topics to be considered.txt",
+		"/C/Users/Ahmed/AppData/Local/Temp/fz3temp-2/000-default.conf",
+		"/C/Users/Ahmed/Documents/valeo/flip.c",
+		"/C/Users/Ahmed/Documents/valeo/example.c",
+		"/C/Users/Ahmed/Documents/valeo/machine.h",
+		"/C/Users/Ahmed/Documents/valeo/valeo exam/valeo (2).txt",
+		"/C/xampp/htdocs/ssl/ssl.key",
+		"/C/xampp/htdocs/charity/app/views/layouts/manager.blade.php",
+		"/C/Users/Ahmed/AppData/Local/Temp/fz3temp-1/embeddedcasts.com.conf",
+		"/C/Users/Ahmed/AppData/Roaming/Sublime Text 3/Packages/User/sftp_servers/ahmedhamed.net",
+		"/C/Users/Ahmed/Documents/valeo/sftp/sftp-config.json",
+		"/C/Users/Ahmed/Documents/valeo/valeo exam/sftp-config.json",
+		"/C/Users/Ahmed/AppData/Local/Temp/fz3temp-1/hamed.foozee.net",
+		"/C/Users/Ahmed/Documents/valeo/prob6.c",
+		"/C/Users/Ahmed/AppData/Roaming/Sublime Text 3/Packages/User/SFTP.sublime-settings",
+		"/C/Users/Ahmed/AppData/Roaming/Sublime Text 3/Packages/SFTP/SFTP.sublime-settings",
+		"/C/Users/Ahmed/Documents/valeo/prob5_decimal2binary.c",
+		"/C/Users/Ahmed/Documents/valeo/bubble_sorting.c",
+		"/C/Users/Ahmed/Documents/valeo/how to know endianess.txt",
+		"/C/Users/Ahmed/Documents/valeo/prob4.c",
+		"/C/Users/Ahmed/Documents/valeo/prob3.c",
+		"/C/Users/Ahmed/Documents/valeo/prob2.c",
+		"/C/Users/Ahmed/Documents/valeo/prob1.c",
+		"/C/Users/Ahmed/Documents/valeo/prob.c",
+		"/C/Users/Ahmed/Downloads/php/index.php",
+		"/C/Users/Ahmed/Downloads/index.php",
+		"/C/xampp/htdocs/alton/responder.php",
+		"/C/Users/Ahmed/AppData/Local/Temp/fz3temp-1/default",
+		"/C/xampp/apache/conf/httpd.conf",
+		"/C/Users/Ahmed/AppData/Local/Temp/fz3temp-2/.env",
+		"/C/Users/Ahmed/AppData/Local/Temp/fz3temp-2/.htaccess",
+		"/C/xampp/mysql/bin/my.ini",
+		"/C/Users/Ahmed/AppData/Local/Temp/fz3temp-1/php.ini",
+		"/C/xampp/htdocs/alton/connect.php",
+		"/C/Users/Ahmed/AppData/Local/Temp/fz3temp-1/laravel-2015-05-29.log",
+		"/C/Users/Ahmed/AppData/Local/Temp/fz3temp-1/.htaccess",
+		"/C/Users/Ahmed/AppData/Local/Temp/fz3temp-1/.env",
+		"/C/Users/Ahmed/AppData/Local/Temp/fz3temp-1/default-ssl.conf",
+		"/C/Users/Ahmed/AppData/Local/Temp/fz3temp-1/.env.example",
+		"/C/xampp/php/php.ini",
+		"/C/Users/Ahmed/Documents/valeo/reverse_string.c",
+		"/C/Users/Ahmed/Documents/valeo/trz336D.tmp",
+		"/C/xampp/htdocs/New folder/laravel-2015-05-13.log",
+		"/C/xampp/htdocs/New folder/mysql_error.log",
+		"/C/xampp/mysql/bin/sha3er.sql",
+		"/C/xampp/htdocs/New folder/php.ini",
+		"/C/xampp/htdocs/New folder/laravel-2015-04-16.log",
+		"/C/xampp/htdocs/New folder/laravel-2015-04-21.log",
+		"/C/Users/Ahmed/AppData/Local/Temp/fz3temp-2/.env.example",
+		"/C/Users/Ahmed/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/xampp/htdocs/sha3er/public/jqw/jqwidgets/styles/jqx.highcontrast.css",
+		"/C/xampp/htdocs/sha3er/vendor/vsmoraes/laravel-pdf/src/PdfFacade.php",
+		"/C/xampp/htdocs/sha3er/app/Question.php",
+		"/C/xampp/htdocs/sha3er/resources/views/partials/form.blade.php",
+		"/C/xampp/htdocs/charity/app/controllers/respondercontroller.php",
+		"/C/xampp/htdocs/sha3er/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Minus.php",
+		"/C/xampp/htdocs/sha3er/public/index.php",
+		"/C/xampp/htdocs/sha3er/vendor/phpspec/phpspec/src/PhpSpec/Formatter/Html/InvalidExampleResultException.php",
+		"/C/xampp/htdocs/sha3er/vendor/phpdocumentor/reflection-docblock/tests/phpDocumentor/Reflection/DocBlock/Tag/ExampleTagTest.php",
+		"/C/xampp/htdocs/sha3er/vendor/nikic/php-parser/bin/php-parse.php",
+		"/C/xampp/htdocs/sha3er/public/clipboard/jquery.zclip.min.js",
+		"/C/xampp/htdocs/charity/app/models/periods.php",
+		"/C/xampp/htdocs/sha3er/database/migrations/2015_04_14_011535_create_questions_table.php",
+		"/C/xampp/htdocs/sha3er/vendor/symfony/console/Symfony/Component/Console/Question/Question.php",
+		"/C/xampp/htdocs/sha3er/.env",
+		"/C/xampp/htdocs/sha3er/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesAndRegistersUsers.php",
+		"/C/xampp/htdocs/sha3er/app/Http/Middleware/Authenticate.php",
+		"/C/xampp/htdocs/sha3er/app/Http/Middleware/RedirectIfAuthenticated.php",
+		"/C/xampp/htdocs/sha3er/public/css/style.css",
+		"/C/xampp/htdocs/sha3er/resources/views/questions/index.blade.php",
+		"/C/xampp/htdocs/sha3er/resources/views/welcome.blade.php",
+		"/C/xampp/htdocs/sha3er/app/Http/routes.php",
+		"/C/xampp/plm_laravel/storage/framework/sessions/c5576bf8d659b1fde0e67514887fdffb1405c1b6",
+		"/C/xampp/plm_laravel/storage/framework/sessions/e9634f6d8f0a9f247791a4c6ad3586cd63e7b957",
+		"/C/xampp/plm_laravel/storage/framework/sessions/7df5348e390d4818ac1f6204c260dee2cdc6e173",
+		"/C/xampp/plm_laravel/storage/framework/sessions/333170345e5a4662b9ff4f622fb7dde361d936f0",
+		"/C/xampp/plm_laravel/app/Commands/Command.php",
+		"/C/xampp/htdocs/phpquestionbank-code-4/login.php",
+		"/C/xampp/htdocs/phpquestionbank-code-4/setup.sql",
+		"/C/xampp/phpMyAdmin/config.inc.php",
+		"/C/xampp/plm_laravel/composer.json",
+		"/C/xampp/plm_laravel/vendor/laravel/socialite/src/Two/AbstractProvider.php",
+		"/C/xampp/plm_laravel/vendor/league/oauth1-client/src/Client/Server/Twitter.php",
+		"/C/xampp/plm_laravel/vendor/laravel/socialite/src/One/AbstractProvider.php",
+		"/C/xampp/plm_laravel/config/services.php",
+		"/C/xampp/apache/conf/extra/httpd-xampp.conf",
+		"/C/xampp/plm_laravel/.env",
+		"/C/xampp/plm_laravel/vendor/league/oauth1-client/src/Client/Credentials/TokenCredentials.php",
+		"/C/xampp/plm_laravel/vendor/league/oauth1-client/src/Client/Credentials/Credentials.php",
+		"/C/xampp/plm_laravel/resources/views/auth/register.blade.php",
+		"/C/xampp/plm_laravel/resources/views/auth/password.blade.php",
+		"/C/xampp/plm_laravel/resources/views/auth/login.blade.php",
+		"/C/xampp/plm_laravel/resources/views/choosetype.blade.php",
+		"/C/xampp/htdocs/plm/.htaccess",
+		"/C/xampp/plm_laravel/.htaccess",
+		"/C/xampp/htdocs/plm/css/style.css",
+		"/C/xampp/plm_laravel/resources/views/home.blade.php",
+		"/C/xampp/plm_laravel/resources/views/login.blade.php",
+		"/C/xampp/plm_laravel/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesAndRegistersUsers.php",
+		"/C/xampp/plm_laravel/resources/views/common.blade.php",
+		"/C/xampp/plm_laravel/database/migrations/2014_10_12_000000_create_users_table.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"respo",
+			"post",
+			"modul",
+			"articles",
+			"model",
+			"site",
+			"index",
+			"flash",
+			"time",
+			"findMo",
+			"fineone",
+			"article",
+			"boot",
+			"boots",
+			"jquery",
+			"js",
+			"login",
+			"logim",
+			"reset",
+			"validate",
+			"home",
+			"password",
+			"user",
+			"login",
+			"titl",
+			"h1",
+			"Album",
+			"modul",
+			"www",
+			"main",
+			"decode",
+			"main",
+			"\n$",
+			"error",
+			"red",
+			"select",
+			"max",
+			"post",
+			"max",
+			"post",
+			"server-id",
+			"mcr",
+			"int",
+			"60",
+			"pntr1",
+			"30",
+			"remov",
+			"30",
+			"execution",
+			"30",
+			"output",
+			"out",
+			"output",
+			"getcurren",
+			"getpa",
+			"get",
+			"preview",
+			"oncl",
+			"exam",
+			"source.url",
+			"jqxgrid",
+			"source",
+			"jqxgrid",
+			"grid",
+			"../../",
+			"fa",
+			"cdn",
+			"width",
+			"exam'",
+			"exam",
+			"autocom",
+			"autocom.",
+			"root",
+			"outline",
+			"htdocs",
+			"127.0.0.1",
+			"localhost",
+			"$temp",
+			"temp",
+			"AbstractProvider",
+			"driver",
+			"extension=php_fileinfo",
+			"extension",
+			"file",
+			"auth",
+			"input",
+			"content",
+			"input",
+			"localhost",
+			"smtp",
+			"user",
+			"curl",
+			"curl.cainfo",
+			"curl",
+			"curl.cainfo",
+			"input",
+			"fakemail",
+			"vhost",
+			"vh",
+			"ssl",
+			"Override none",
+			"override none",
+			"override",
+			"data",
+			"http",
+			"p>",
+			"</",
+			"\"]//);"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"models",
+			"article",
+			"model",
+			"Article",
+			"pntr",
+			"{{ asset('jqw/",
+			"Override all"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 8,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "views/article/view.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1854,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								630,
+								636
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 22,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "views/auth/login.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 865,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								261,
+								261
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 270.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 25,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "views/auth/password.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 624,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								623,
+								623
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 24,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "views/auth/signup.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 611,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								610,
+								610
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 23,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "web/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 370,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 30,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "views/article/list.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1470,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								352,
+								352
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "views/layouts/flash.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 259,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								259,
+								259
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 19,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "web/css/site.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4108,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3691,
+								3691
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3762.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 29,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/xampp/apache/conf/extra/httpd-vhosts.conf",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4115,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2106.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "controllers/ArticleController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4637,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								202,
+								170
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 972.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "controllers/FeedController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1861,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								201,
+								201
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "views/article/rss.xml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 547,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								547
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"file": "web/uploads/article_27.jpg",
+					"semi_transient": false,
+					"stack_index": 33,
+					"type": "image"
+				},
+				{
+					"file": "web/uploads/article_26.jpg",
+					"semi_transient": false,
+					"stack_index": 34,
+					"type": "image"
+				},
+				{
+					"file": "web/uploads/article_15.jpg",
+					"semi_transient": false,
+					"stack_index": 32,
+					"type": "image"
+				},
+				{
+					"buffer": 12,
+					"file": "models/Article.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 836,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								720,
+								720
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 575.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "models/Uploader.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 751,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								416,
+								416
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 162.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "controllers/ErrorController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 441,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								439,
+								439
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "vendor/yiisoft/yii2-debug/Module.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16174,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15833,
+								15833
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3906.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 28,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "controllers/AuthController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3417,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1896,
+								1896
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1890.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "controllers/PdfController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 844,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								482,
+								482
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 20,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "views/article/create.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 228,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								30,
+								30
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 21,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "models/Password.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 703,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								107,
+								107
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"default_dir": "C:\\xampp\\htdocs\\yii\\basic\\models",
+							"incomplete_sync": null,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 40,
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"file": "config/web.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2566,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1289,
+								1289
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 594.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 22,
+					"file": "views/layouts/main.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2806,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2211,
+								2211
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 23,
+					"file": "views/article/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 187,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								46,
+								46
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 24,
+					"file": "views/article/_form.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 643,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								56,
+								56
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 26,
+					"type": "text"
+				},
+				{
+					"buffer": 25,
+					"file": "models/User.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3392,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1363,
+								1219
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 26,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 40,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								40,
+								40
+							]
+						],
+						"settings":
+						{
+							"auto_name": "ad46f0e0f826caa0ba6fa2d11602c12560d29a23",
+							"incomplete_sync": null,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 36,
+					"type": "text"
+				},
+				{
+					"buffer": 27,
+					"file": "vendor/yiisoft/yii2/helpers/ArrayHelper.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 386,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								174,
+								174
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 35,
+					"type": "text"
+				},
+				{
+					"buffer": 28,
+					"file": "models/Mailer.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 641,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								459,
+								459
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 29,
+					"file": "runtime/logs/app.log",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6657532,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2233350.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 27,
+					"type": "text"
+				},
+				{
+					"buffer": 30,
+					"file": "composer.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1714,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								836,
+								836
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 594.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 31,
+					"file": "/C/xampp/htdocs/Ahmed Hamed - Software Engineer - PHP/Readme.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 163,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								163,
+								163
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"spell_check": true,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 32,
+					"file": "views/article/myarticles.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 324,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								32,
+								32
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				},
+				{
+					"buffer": 33,
+					"file": "models/SignupForm.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 752,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								91,
+								91
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 270.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 34,
+					"file": "views/site/signup.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 725,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								585,
+								585
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 31,
+					"type": "text"
+				},
+				{
+					"buffer": 35,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2154,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2154,
+								2154
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 348.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 39,
+					"type": "text"
+				},
+				{
+					"buffer": 36,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1028,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								487,
+								487
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 432.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 38,
+					"type": "text"
+				},
+				{
+					"buffer": 37,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 35,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								35,
+								35
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"incomplete_sync": null,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 37,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 108.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 232.0
+	},
+	"pinned_build_system": "Packages/Makefile/Make.sublime-build",
+	"project": "yii.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"web",
+				"config\\web.php"
+			],
+			[
+				"main",
+				"views\\layouts\\main.php"
+			],
+			[
+				"lis",
+				"views\\article\\list.php"
+			],
+			[
+				"inde",
+				"views\\article\\index.php"
+			],
+			[
+				"index",
+				"views\\article\\index.php"
+			],
+			[
+				"list",
+				"views\\article\\list.php"
+			],
+			[
+				"view",
+				"views\\article\\view.php"
+			],
+			[
+				"art",
+				"controllers\\ArticleController.php"
+			],
+			[
+				"mail",
+				"models\\Mailer.php"
+			],
+			[
+				"flas",
+				"views\\layouts\\flash.php"
+			],
+			[
+				"mailer",
+				"models\\Mailer.php"
+			],
+			[
+				"modul",
+				"vendor\\yiisoft\\yii2-debug\\Module.php"
+			],
+			[
+				"ar",
+				"controllers\\ArticleController.php"
+			],
+			[
+				"site.css",
+				"web\\css\\site.css"
+			],
+			[
+				"siteco",
+				"controllers\\SiteController.php"
+			],
+			[
+				"sitecon",
+				"controllers\\SiteController.php"
+			],
+			[
+				"user",
+				"models\\User.php"
+			],
+			[
+				"mya",
+				"views\\article\\myarticles.php"
+			],
+			[
+				"ma",
+				"views\\layouts\\main.php"
+			],
+			[
+				"l",
+				"views\\article\\list.php"
+			],
+			[
+				"signu",
+				"views\\site\\signup.php"
+			],
+			[
+				"login",
+				"views\\site\\login.php"
+			],
+			[
+				"site",
+				"web\\css\\site.css"
+			],
+			[
+				"si",
+				"web\\css\\site.css"
+			],
+			[
+				"a",
+				"controllers\\ArticleController.php"
+			],
+			[
+				"upl",
+				"models\\Uploader.php"
+			],
+			[
+				"",
+				"models\\Uploader.php"
+			],
+			[
+				"uploa",
+				"models\\Uploader.php"
+			],
+			[
+				"jq",
+				"web\\assets\\568ea2c3\\jquery.min.js"
+			],
+			[
+				"site.cs",
+				"web\\css\\site.css"
+			],
+			[
+				"yii/helpers/",
+				"vendor\\yiisoft\\yii2\\helpers\\ArrayHelper.php"
+			],
+			[
+				"articl",
+				"controllers\\ArticleController.php"
+			],
+			[
+				"oop",
+				"valeo\\oop.php"
+			],
+			[
+				"welc",
+				"C:\\xampp\\htdocs\\embeddedcasts\\resources\\views\\welcome.blade.php"
+			],
+			[
+				"p",
+				"valeo\\prob.c"
+			],
+			[
+				"pdf",
+				"app\\Http\\Controllers\\PdfController.php"
+			],
+			[
+				"app",
+				"resources\\views\\app.blade.php"
+			],
+			[
+				"quespartia",
+				"resources\\views\\questions\\partials\\form.blade.php"
+			],
+			[
+				"flashmes",
+				"vendor\\laracasts\\flash\\src\\views\\message.blade.php"
+			],
+			[
+				"examind",
+				"resources\\views\\exams\\index.blade.php"
+			],
+			[
+				"exam",
+				"app\\Http\\Controllers\\ExamsController.php"
+			],
+			[
+				"que",
+				"app\\Http\\Controllers\\QuestionsController.php"
+			],
+			[
+				"quesinde",
+				"resources\\views\\questions\\index.blade.php"
+			],
+			[
+				"quesind",
+				"resources\\views\\questions\\index.blade.php"
+			],
+			[
+				"ques",
+				"app\\Http\\Controllers\\QuestionsController.php"
+			],
+			[
+				"sty",
+				"public\\css\\style.css"
+			],
+			[
+				"toggl",
+				"public\\bootstrap\\js\\bootstrap-toggle.js"
+			],
+			[
+				"toggle",
+				"public\\bootstrap\\js\\bootstrap-toggle.js"
+			],
+			[
+				"quesin",
+				"app\\Question.php"
+			],
+			[
+				"examsind",
+				"resources\\views\\exams\\index.blade.php"
+			],
+			[
+				"examssh",
+				"resources\\views\\exams\\show.blade.php"
+			],
+			[
+				"rou",
+				"app\\Http\\routes.php"
+			],
+			[
+				"ro",
+				"app\\Http\\routes.php"
+			],
+			[
+				"questio",
+				"app\\Http\\Controllers\\QuestionsController.php"
+			],
+			[
+				"show",
+				"resources\\views\\exams\\show.blade.php"
+			],
+			[
+				"examshow",
+				"resources\\views\\exams\\show.blade.php"
+			],
+			[
+				"connection",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php"
+			],
+			[
+				"q",
+				"app\\Http\\Controllers\\QuestionsController.php"
+			],
+			[
+				".ht",
+				"public\\.htaccess"
+			],
+			[
+				".hta",
+				"public\\jqw\\jqwidgets\\styles\\jqx.highcontrast.css"
+			],
+			[
+				"route",
+				"app\\Http\\routes.php"
+			],
+			[
+				"authenticatesandregistersusers",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Auth\\AuthenticatesAndRegistersUsers.php"
+			],
+			[
+				"pdfc",
+				"app\\Http\\Controllers\\PdfController.php"
+			],
+			[
+				"dompdf",
+				"vendor\\dompdf\\dompdf\\include\\dompdf.cls.php"
+			],
+			[
+				"dompdfinstance",
+				"vendor\\dompdf\\dompdf\\include\\abstract_renderer.cls.php"
+			],
+			[
+				"pdfserv",
+				"vendor\\vsmoraes\\laravel-pdf\\src\\PdfServiceProvider.php"
+			],
+			[
+				"mydompdf",
+				"vendor\\symfony\\debug\\Symfony\\Component\\Debug\\Exception\\FatalErrorException.php"
+			],
+			[
+				"vsmoraes/pdf",
+				"vendor\\vsmoraes\\laravel-pdf\\src\\PdfFacade.php"
+			],
+			[
+				"com",
+				"composer.json"
+			],
+			[
+				"vsmoraespdf",
+				"vendor\\vsmoraes\\laravel-pdf\\src\\PdfServiceProvider.php"
+			],
+			[
+				"compos",
+				"composer.json"
+			],
+			[
+				"rout",
+				"app\\Http\\routes.php"
+			],
+			[
+				"routes",
+				"app\\Providers\\RouteServiceProvider.php"
+			],
+			[
+				"env",
+				".env"
+			],
+			[
+				"configmail",
+				"config\\mail.php"
+			],
+			[
+				"htt",
+				"C:\\xampp\\apache\\conf\\httpd.conf"
+			],
+			[
+				"examss",
+				"resources\\views\\exams\\show.blade.php"
+			],
+			[
+				"examssho",
+				"resources\\views\\exams\\show.blade.php"
+			],
+			[
+				"examsho",
+				"resources\\views\\exams\\show.blade.php"
+			],
+			[
+				"router",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php"
+			],
+			[
+				"quesindex",
+				"resources\\views\\questions\\index.blade.php"
+			],
+			[
+				"exa",
+				"app\\Http\\Controllers\\ExamsController.php"
+			],
+			[
+				"compo",
+				"composer.json"
+			],
+			[
+				"sho",
+				"resources\\views\\exams\\show.blade.php"
+			],
+			[
+				"ker",
+				"app\\Http\\Kernel.php"
+			],
+			[
+				"sh",
+				"resources\\views\\exams\\show.blade.php"
+			],
+			[
+				"comp",
+				"composer.json"
+			],
+			[
+				"ex",
+				"app\\Http\\Controllers\\ExamsController.php"
+			],
+			[
+				"examsc",
+				"app\\Http\\Controllers\\ExamsController.php"
+			],
+			[
+				"exam_q",
+				"app\\Http\\Controllers\\exam_question.php"
+			],
+			[
+				"flashme",
+				"vendor\\laracasts\\flash\\src\\views\\message.blade.php"
+			],
+			[
+				"stude",
+				"C:\\xampp\\htdocs\\alton\\models\\students.php"
+			],
+			[
+				"quesc",
+				"app\\Http\\Controllers\\QuestionsController.php"
+			],
+			[
+				"examsh",
+				"app\\Http\\Controllers\\ExamsController.php"
+			],
+			[
+				"qu",
+				"app\\Http\\Controllers\\QuestionsController.php"
+			],
+			[
+				"mang",
+				"C:\\xampp\\htdocs\\alton\\manager.php"
+			],
+			[
+				"manager",
+				"C:\\xampp\\htdocs\\alton\\manager.php"
+			],
+			[
+				"man",
+				"C:\\xampp\\htdocs\\alton\\manager.php"
+			],
+			[
+				"question",
+				"app\\Http\\Controllers\\QuestionsController.php"
+			],
+			[
+				"exam_qu",
+				"app\\exam_question.php"
+			],
+			[
+				"questionin",
+				"resources\\views\\questions\\index.blade.php"
+			],
+			[
+				"examsin",
+				"resources\\views\\exams\\index.blade.php"
+			],
+			[
+				"examin",
+				"vendor\\nikic\\php-parser\\lib\\PhpParser\\Node\\Expr\\AssignOp\\Minus.php"
+			],
+			[
+				"questin",
+				"resources\\views\\questions\\index.blade.php"
+			],
+			[
+				"questind",
+				"resources\\views\\questions\\index.blade.php"
+			],
+			[
+				"examsi",
+				"resources\\views\\exams\\index.blade.php"
+			],
+			[
+				"auth",
+				"app\\Http\\Controllers\\Auth\\AuthController.php"
+			],
+			[
+				"styl",
+				"public\\css\\style.css"
+			],
+			[
+				"exams",
+				"vendor\\phpdocumentor\\reflection-docblock\\tests\\phpDocumentor\\Reflection\\DocBlock\\Tag\\ExampleTagTest.php"
+			],
+			[
+				"indexex",
+				"vendor\\phpspec\\phpspec\\src\\PhpSpec\\Formatter\\Html\\InvalidExampleResultException.php"
+			],
+			[
+				"pp",
+				"vendor\\nikic\\php-parser\\bin\\php-parse.php"
+			],
+			[
+				"exams.i",
+				"resources\\views\\exams\\index.blade.php"
+			],
+			[
+				"form.bl",
+				"resources\\views\\questions\\partials\\form.blade.php"
+			],
+			[
+				"form",
+				"resources\\views\\partials\\form.blade.php"
+			],
+			[
+				"form.",
+				"resources\\views\\questions\\partials\\form.blade.php"
+			],
+			[
+				"form.b",
+				"resources\\views\\partials\\form.blade.php"
+			],
+			[
+				"cre",
+				"resources\\views\\questions\\create.blade.php"
+			],
+			[
+				"crea",
+				"resources\\views\\questions\\create.blade.php"
+			],
+			[
+				"flashm",
+				"vendor\\laracasts\\flash\\src\\views\\message.blade.php"
+			],
+			[
+				"home",
+				"app\\Http\\Controllers\\HomeController.php"
+			],
+			[
+				"fo",
+				"resources\\views\\questions\\partials\\form.blade.php"
+			],
+			[
+				"app.b",
+				"resources\\views\\app.blade.php"
+			],
+			[
+				"questuio",
+				"vendor\\symfony\\console\\Symfony\\Component\\Console\\Question\\Question.php"
+			],
+			[
+				"questions",
+				"database\\migrations\\2015_04_14_011535_create_questions_table.php"
+			],
+			[
+				"authco",
+				"app\\Http\\Controllers\\Auth\\AuthController.php"
+			],
+			[
+				"wecom",
+				"resources\\views\\welcome.blade.php"
+			],
+			[
+				"serviceprovider",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Support\\ServiceProvider.php"
+			],
+			[
+				"sess",
+				"config\\session.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 848.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 374.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
