@@ -10,7 +10,7 @@ use Yii;
 class Mailer 
 {
 
-	public function send_confirmation (User $user)
+	public static function send_confirmation (User $user)
 	{
     	return Yii::$app->mail->compose()
 	     ->setFrom(['noreply@news-portal.dev' => 'News Portal'])
