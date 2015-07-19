@@ -165,7 +165,7 @@ class ArticleController extends Controller
      * @return Article the loaded model
      * @throws NotFoundHttpException if the model cannot be found
      */
-    public function findModel($id)
+    public static function findModel($id)
     {
         if (($model = Article::findOne($id)) !== null) {
             return $model;
